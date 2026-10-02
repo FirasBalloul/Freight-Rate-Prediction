@@ -6,7 +6,7 @@ An end-to-end machine learning pipeline built with LightGBM to forecast spot fre
 
 ```bash
 # Clone repository
-git clone <YOUR_REPO_URL>
+git clone https://github.com/FirasBalloul/Freight-Rate-Prediction.git
 cd "Freight Rate Prediction"
 
 # Create and activate virtual environment

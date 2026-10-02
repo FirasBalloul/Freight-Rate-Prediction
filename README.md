@@ -79,9 +79,3 @@ Evaluated on the fixed 360-mile Dry Van test lane across all 31 days of December
 └── validation_predictions.csv                # Primary submission predictions (root level)
 ```
 
-## 5. Submission Requirements
-
-- GitHub repository containing your code, dependencies, and run instructions
-- `validation_predictions.csv`
-- PDF or DOCX report containing your validation, data split approach, and `candidate_december.png`
-- 2–3 minute Loom link
